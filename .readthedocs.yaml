@@ -7,12 +7,14 @@ version: 2
 #   tools:
 #     python: "3.9"
 
+build:
+  os: "ubuntu-20.04"
+  tools:
+    python: "mambaforge-4.10"
+
 sphinx:
   configuration: docs/conf.py
 
 conda:
-  environment: docs/environment.yaml
-# python:
-#   install:
-#     - requirements: docs/environment.yaml
-    
+  environment: environment.yaml
+

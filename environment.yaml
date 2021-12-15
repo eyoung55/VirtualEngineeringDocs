@@ -1,4 +1,4 @@
-name: docs
+name: virteng-env
 channels:
   - conda-forge
   - defaults
