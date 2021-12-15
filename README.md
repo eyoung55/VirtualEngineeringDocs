@@ -1,4 +1,5 @@
 # Virtual Engineering Documentation
 
-This directory serves the VE documentation.  It includes redacted versions of the `vebio` functions so that docstrings are still captured and included.
+This repo serves as a public server for the VE documentation.  It includes redacted versions of the `vebio` functions so that docstrings are still captured and included.
 
+Check out the [latest build of the documentation](https://virtual-engineering-docs.readthedocs.io/en/latest/).
