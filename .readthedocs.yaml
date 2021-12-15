@@ -10,7 +10,9 @@ version: 2
 sphinx:
   configuration: docs/conf.py
 
-python:
-  install:
-    - requirements: docs/environment.yaml
+conda:
+  environment: docs/environment.yml
+# python:
+#   install:
+#     - requirements: docs/environment.yaml
     
